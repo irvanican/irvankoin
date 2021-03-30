@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LemparCoinIrvan</string>
+    <string name="lemparkan_coin">Lemparkan Coin</string>
+    <string name="ulangi">Ulangi</string>
+    <string name="keluar">Keluar</string>
+    <string name="todo">TODO</string>
+</resources>
